@@ -1,6 +1,6 @@
 {
   "catalog_id": "allergens",
-  "latest_version": "2026.08.06.1",
+  "latest_version": "2026.08.10.2",
   "versions": [
     {
       "catalog_version": "2026.08.05.1",
@@ -13,6 +13,18 @@
       "schema_version": 1,
       "minimum_client_version": "0.1.0",
       "manifest_url": "versions/2026.08.06.1/manifest.json"
+    },
+    {
+      "catalog_version": "2026.08.10.1",
+      "schema_version": 2,
+      "minimum_client_version": "0.2.0",
+      "manifest_url": "versions/2026.08.10.1/manifest.json"
+    },
+    {
+      "catalog_version": "2026.08.10.2",
+      "schema_version": 3,
+      "minimum_client_version": "0.2.0",
+      "manifest_url": "versions/2026.08.10.2/manifest.json"
     }
   ]
 }

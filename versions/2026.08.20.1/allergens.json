@@ -14525,14 +14525,14 @@
       "meta": {
         "id": "019fcf38-4800-7aba-a888-39e5b039716f",
         "created_at": "2026-08-05T00:00:00.000Z",
-        "updated_at": "2026-08-13T08:53:32.000Z",
+        "updated_at": "2026-08-20T06:07:50.000Z",
         "deleted_at": null
       },
       "code": "ND11",
       "liquid": true,
       "igg": false,
       "mix": false,
-      "recombinant": false,
+      "recombinant": true,
       "approval_state": "approved",
       "component_allergen_ids": [
 
@@ -14547,14 +14547,14 @@
       "meta": {
         "id": "019fcf38-4800-7aba-a888-39e5b0397170",
         "created_at": "2026-08-05T00:00:00.000Z",
-        "updated_at": "2026-08-13T08:53:32.000Z",
+        "updated_at": "2026-08-20T06:07:50.000Z",
         "deleted_at": null
       },
       "code": "ND12",
       "liquid": true,
       "igg": false,
       "mix": false,
-      "recombinant": false,
+      "recombinant": true,
       "approval_state": "approved",
       "component_allergen_ids": [
 
@@ -14569,14 +14569,14 @@
       "meta": {
         "id": "019fcf38-4800-7aba-a888-39e5b0397171",
         "created_at": "2026-08-05T00:00:00.000Z",
-        "updated_at": "2026-08-13T08:53:32.000Z",
+        "updated_at": "2026-08-20T06:07:50.000Z",
         "deleted_at": null
       },
       "code": "ND21",
       "liquid": true,
       "igg": false,
       "mix": false,
-      "recombinant": false,
+      "recombinant": true,
       "approval_state": "approved",
       "component_allergen_ids": [
 
@@ -14591,14 +14591,14 @@
       "meta": {
         "id": "019fcf38-4800-7aba-a888-39e5b0397172",
         "created_at": "2026-08-05T00:00:00.000Z",
-        "updated_at": "2026-08-13T08:53:32.000Z",
+        "updated_at": "2026-08-20T06:07:50.000Z",
         "deleted_at": null
       },
       "code": "ND22",
       "liquid": true,
       "igg": false,
       "mix": false,
-      "recombinant": false,
+      "recombinant": true,
       "approval_state": "approved",
       "component_allergen_ids": [
 
@@ -14613,14 +14613,14 @@
       "meta": {
         "id": "019fcf38-4800-7aba-a888-39e5b0397173",
         "created_at": "2026-08-05T00:00:00.000Z",
-        "updated_at": "2026-08-13T08:53:32.000Z",
+        "updated_at": "2026-08-20T06:07:50.000Z",
         "deleted_at": null
       },
       "code": "NF24",
       "liquid": true,
       "igg": false,
       "mix": false,
-      "recombinant": false,
+      "recombinant": true,
       "approval_state": "approved",
       "component_allergen_ids": [
 
@@ -14635,14 +14635,14 @@
       "meta": {
         "id": "019fcf38-4800-7aba-a888-39e5b0397174",
         "created_at": "2026-08-05T00:00:00.000Z",
-        "updated_at": "2026-08-13T08:53:32.000Z",
+        "updated_at": "2026-08-20T06:07:50.000Z",
         "deleted_at": null
       },
       "code": "NF103",
       "liquid": true,
       "igg": false,
       "mix": false,
-      "recombinant": false,
+      "recombinant": true,
       "approval_state": "approved",
       "component_allergen_ids": [
 
@@ -14657,14 +14657,14 @@
       "meta": {
         "id": "019fcf38-4800-7aba-a888-39e5b0397175",
         "created_at": "2026-08-05T00:00:00.000Z",
-        "updated_at": "2026-08-13T08:53:32.000Z",
+        "updated_at": "2026-08-20T06:07:50.000Z",
         "deleted_at": null
       },
       "code": "NF131",
       "liquid": true,
       "igg": false,
       "mix": false,
-      "recombinant": false,
+      "recombinant": true,
       "approval_state": "approved",
       "component_allergen_ids": [
 
@@ -14679,14 +14679,14 @@
       "meta": {
         "id": "019fcf38-4800-7aba-a888-39e5b0397176",
         "created_at": "2026-08-05T00:00:00.000Z",
-        "updated_at": "2026-08-13T08:53:32.000Z",
+        "updated_at": "2026-08-20T06:07:50.000Z",
         "deleted_at": null
       },
       "code": "NF132",
       "liquid": true,
       "igg": false,
       "mix": false,
-      "recombinant": false,
+      "recombinant": true,
       "approval_state": "approved",
       "component_allergen_ids": [
 
@@ -14701,14 +14701,14 @@
       "meta": {
         "id": "019fcf38-4800-7aba-a888-39e5b0397177",
         "created_at": "2026-08-05T00:00:00.000Z",
-        "updated_at": "2026-08-13T08:53:32.000Z",
+        "updated_at": "2026-08-20T06:07:50.000Z",
         "deleted_at": null
       },
       "code": "NF133",
       "liquid": true,
       "igg": false,
       "mix": false,
-      "recombinant": false,
+      "recombinant": true,
       "approval_state": "approved",
       "component_allergen_ids": [
 
@@ -14723,14 +14723,14 @@
       "meta": {
         "id": "019fcf38-4800-7aba-a888-39e5b0397178",
         "created_at": "2026-08-05T00:00:00.000Z",
-        "updated_at": "2026-08-13T08:53:32.000Z",
+        "updated_at": "2026-08-20T06:07:50.000Z",
         "deleted_at": null
       },
       "code": "NF136",
       "liquid": true,
       "igg": false,
       "mix": false,
-      "recombinant": false,
+      "recombinant": true,
       "approval_state": "approved",
       "component_allergen_ids": [
 
@@ -14745,14 +14745,14 @@
       "meta": {
         "id": "019fcf38-4800-7aba-a888-39e5b0397179",
         "created_at": "2026-08-05T00:00:00.000Z",
-        "updated_at": "2026-08-13T08:53:32.000Z",
+        "updated_at": "2026-08-20T06:07:50.000Z",
         "deleted_at": null
       },
       "code": "NF179",
       "liquid": true,
       "igg": false,
       "mix": false,
-      "recombinant": false,
+      "recombinant": true,
       "approval_state": "approved",
       "component_allergen_ids": [
 
@@ -14767,14 +14767,14 @@
       "meta": {
         "id": "019fcf38-4800-7aba-a888-39e5b039717a",
         "created_at": "2026-08-05T00:00:00.000Z",
-        "updated_at": "2026-08-13T08:53:32.000Z",
+        "updated_at": "2026-08-20T06:07:50.000Z",
         "deleted_at": null
       },
       "code": "NF253",
       "liquid": true,
       "igg": false,
       "mix": false,
-      "recombinant": false,
+      "recombinant": true,
       "approval_state": "approved",
       "component_allergen_ids": [
 
@@ -14789,14 +14789,14 @@
       "meta": {
         "id": "019fcf38-4800-7aba-a888-39e5b039717b",
         "created_at": "2026-08-05T00:00:00.000Z",
-        "updated_at": "2026-08-13T08:53:32.000Z",
+        "updated_at": "2026-08-20T06:07:50.000Z",
         "deleted_at": null
       },
       "code": "NGAL1",
       "liquid": true,
       "igg": false,
       "mix": false,
-      "recombinant": false,
+      "recombinant": true,
       "approval_state": "approved",
       "component_allergen_ids": [
 
@@ -14811,14 +14811,14 @@
       "meta": {
         "id": "019fcf38-4800-7aba-a888-39e5b039717c",
         "created_at": "2026-08-05T00:00:00.000Z",
-        "updated_at": "2026-08-13T08:53:32.000Z",
+        "updated_at": "2026-08-20T06:07:50.000Z",
         "deleted_at": null
       },
       "code": "NW101",
       "liquid": true,
       "igg": false,
       "mix": false,
-      "recombinant": false,
+      "recombinant": true,
       "approval_state": "approved",
       "component_allergen_ids": [
 

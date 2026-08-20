@@ -1,0 +1,11 @@
+{
+  "catalog_id": "allergens",
+  "catalog_version": "2026.08.20.1",
+  "schema_version": 6,
+  "generated_at": "2026-08-20T06:07:50.000Z",
+  "minimum_client_version": "0.2.0",
+  "download_url": "allergens.json",
+  "sha256": "3a7aaffc5869c1ddb99fd9770180cb834d6ef504bdc4e7142f4dd24e4dd9c1e2",
+  "file_size": 496705,
+  "allergen_count": 901
+}

@@ -1,12 +1,12 @@
 {
   "catalog_id": "allergens",
-  "latest_version": "2026.08.13.2",
+  "latest_version": "2026.08.20.1",
   "versions": [
     {
-      "catalog_version": "2026.08.13.2",
+      "catalog_version": "2026.08.20.1",
       "schema_version": 6,
       "minimum_client_version": "0.2.0",
-      "manifest_url": "versions/2026.08.13.2/manifest.json"
+      "manifest_url": "versions/2026.08.20.1/manifest.json"
     }
   ]
 }

@@ -1,0 +1,66 @@
+name: Validate and publish catalogues
+
+on:
+  pull_request:
+    paths:
+      - "public/**"
+      - "scripts/**"
+      - "tests/**"
+      - ".github/workflows/publish.yml"
+  push:
+    branches:
+      - main
+    paths:
+      - "public/**"
+      - "scripts/**"
+      - "tests/**"
+      - ".github/workflows/publish.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: github-pages
+  cancel-in-progress: false
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Run validator tests
+        run: python3 -m unittest discover -s tests
+
+      - name: Validate catalogues
+        run: python3 scripts/validate_catalogs.py
+
+  deploy:
+    if: github.event_name != 'pull_request'
+    needs: validate
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload catalogue artifact
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: public
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+
